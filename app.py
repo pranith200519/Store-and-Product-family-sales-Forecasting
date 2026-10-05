@@ -31,7 +31,7 @@ st.markdown(
 # DATA FILES
 # ---------------------------------------------------------
 
-DATA_FOLDER = "data"
+DATA_FOLDER = "Data"
 
 FILES = {
     "Product Sales M5": "Product_Sales_M5_Style_Final.xlsx",
